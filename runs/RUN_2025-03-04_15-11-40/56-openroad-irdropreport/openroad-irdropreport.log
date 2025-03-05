@@ -1,0 +1,351 @@
+Reading OpenROAD database at '/home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/53-odb-cellfrequencytables/counter.odb'…
+Reading library file at '/home/lroot/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+Reading library file at '/home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib'…
+Reading macro library file at '/home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib'…
+[WARNING STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+Reading design constraints file at '/home/lroot/NCO2ram/counter.sdc'…
+[WARNING STA-0366] port 'addr0[0]' not found.
+[WARNING STA-0366] port 'addr0[1]' not found.
+[WARNING STA-0366] port 'addr0[2]' not found.
+[WARNING STA-0366] port 'addr0[3]' not found.
+[WARNING STA-0366] port 'addr0[4]' not found.
+[WARNING STA-0366] port 'addr0[5]' not found.
+[WARNING STA-0366] port 'addr0[6]' not found.
+[WARNING STA-0366] port 'addr0[7]' not found.
+[WARNING STA-0366] port 'csb0' not found.
+[WARNING STA-0366] port 'din0[0]' not found.
+[WARNING STA-0366] port 'din0[10]' not found.
+[WARNING STA-0366] port 'din0[11]' not found.
+[WARNING STA-0366] port 'din0[12]' not found.
+[WARNING STA-0366] port 'din0[13]' not found.
+[WARNING STA-0366] port 'din0[14]' not found.
+[WARNING STA-0366] port 'din0[15]' not found.
+[WARNING STA-0366] port 'din0[1]' not found.
+[WARNING STA-0366] port 'din0[2]' not found.
+[WARNING STA-0366] port 'din0[3]' not found.
+[WARNING STA-0366] port 'din0[4]' not found.
+[WARNING STA-0366] port 'din0[5]' not found.
+[WARNING STA-0366] port 'din0[6]' not found.
+[WARNING STA-0366] port 'din0[7]' not found.
+[WARNING STA-0366] port 'din0[8]' not found.
+[WARNING STA-0366] port 'din0[9]' not found.
+[WARNING STA-0366] port 'csb0' not found.
+[WARNING STA-0366] port 'addr0[7]' not found.
+[WARNING STA-0366] port 'addr0[6]' not found.
+[WARNING STA-0366] port 'addr0[5]' not found.
+[WARNING STA-0366] port 'addr0[4]' not found.
+[WARNING STA-0366] port 'addr0[3]' not found.
+[WARNING STA-0366] port 'addr0[2]' not found.
+[WARNING STA-0366] port 'addr0[1]' not found.
+[WARNING STA-0366] port 'addr0[0]' not found.
+[WARNING STA-0366] port 'din0[15]' not found.
+[WARNING STA-0366] port 'din0[14]' not found.
+[WARNING STA-0366] port 'din0[13]' not found.
+[WARNING STA-0366] port 'din0[12]' not found.
+[WARNING STA-0366] port 'din0[11]' not found.
+[WARNING STA-0366] port 'din0[10]' not found.
+[WARNING STA-0366] port 'din0[9]' not found.
+[WARNING STA-0366] port 'din0[8]' not found.
+[WARNING STA-0366] port 'din0[7]' not found.
+[WARNING STA-0366] port 'din0[6]' not found.
+[WARNING STA-0366] port 'din0[5]' not found.
+[WARNING STA-0366] port 'din0[4]' not found.
+[WARNING STA-0366] port 'din0[3]' not found.
+[WARNING STA-0366] port 'din0[2]' not found.
+[WARNING STA-0366] port 'din0[1]' not found.
+[WARNING STA-0366] port 'din0[0]' not found.
+[INFO] Setting RC values…
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 68659, net ANTENNA_mem_i1_addr0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69056, net ANTENNA_mem_i0_din0\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69057, net ANTENNA_mem_i0_din0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69058, net ANTENNA_mem_i0_din0\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69059, net ANTENNA_mem_i0_din0\[8\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69193, net ANTENNA_mem_i0_addr1\[4\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69647, instance ANTENNA_mem_i0_addr0\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69653, net ANTENNA_mem_i0_addr0\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69675, net ANTENNA_mem_i0_addr0\[0\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69990, instance ANTENNA_mem_i0_addr1\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69996, net ANTENNA_mem_i0_addr1\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70003, net ANTENNA_mem_i0_addr1\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70003, net ANTENNA_mem_i0_addr1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70021, net ANTENNA_mem_i0_addr1\[7\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70138, instance ANTENNA_mem_i0_addr1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70144, net ANTENNA_mem_i0_addr1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70152, net ANTENNA_mem_i0_addr1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70152, net ANTENNA_mem_i0_addr1\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70153, net ANTENNA_mem_i0_addr1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70158, net ANTENNA_mem_i0_addr1\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70158, net ANTENNA_mem_i0_addr1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70169, net ANTENNA_mem_i0_addr1\[6\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70192, instance ANTENNA_mem_i1_addr0\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70198, net ANTENNA_mem_i1_addr0\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70204, net ANTENNA_mem_i1_addr0\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70234, net ANTENNA_mem_i1_addr0\[2\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70306, instance ANTENNA_mem_i0_addr1\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70312, net ANTENNA_mem_i0_addr1\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70328, net ANTENNA_mem_i0_addr1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70328, net ANTENNA_mem_i0_addr1\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70329, net ANTENNA_mem_i0_addr1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70345, net ANTENNA_mem_i0_addr1\[5\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70425, instance ANTENNA_mem_i0_addr1\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70431, net ANTENNA_mem_i0_addr1\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70445, net ANTENNA_mem_i0_addr1\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70452, net ANTENNA_mem_i0_addr1\[4\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70523, instance ANTENNA_mem_i0_addr1\[3\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70529, net ANTENNA_mem_i0_addr1\[3\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70544, net ANTENNA_mem_i0_addr1\[3\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70635, instance ANTENNA_mem_i1_addr0\[3\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70641, net ANTENNA_mem_i1_addr0\[3\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70676, net ANTENNA_mem_i1_addr0\[3\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70744, instance ANTENNA_mem_i0_addr1\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70750, net ANTENNA_mem_i0_addr1\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70770, net ANTENNA_mem_i0_addr1\[2\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70795, instance ANTENNA_mem_i0_addr1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70801, net ANTENNA_mem_i0_addr1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70811, net ANTENNA_mem_i0_addr1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70811, net ANTENNA_mem_i0_addr1\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70812, net ANTENNA_mem_i0_addr1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70813, net ANTENNA_mem_i0_addr1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70814, net ANTENNA_mem_i0_addr1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70826, net ANTENNA_mem_i0_addr1\[1\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70923, instance ANTENNA_mem_i0_addr1\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70929, net ANTENNA_mem_i0_addr1\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70936, net ANTENNA_mem_i0_addr1\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70943, net ANTENNA_mem_i0_addr1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70943, net ANTENNA_mem_i0_addr1\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70944, net ANTENNA_mem_i0_addr1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70954, net ANTENNA_mem_i0_addr1\[0\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71039, instance ANTENNA_mem_i1_addr0\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71045, net ANTENNA_mem_i1_addr0\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71074, net ANTENNA_mem_i1_addr0\[4\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71548, instance ANTENNA_mem_i1_addr0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71554, net ANTENNA_mem_i1_addr0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71561, net ANTENNA_mem_i1_addr0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71562, net ANTENNA_mem_i1_addr0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71566, net ANTENNA_mem_i1_addr0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71579, net ANTENNA_mem_i1_addr0\[5\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71587, instance ANTENNA_mem_i1_addr0\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71593, net ANTENNA_mem_i1_addr0\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71631, net ANTENNA_mem_i1_addr0\[6\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71638, instance ANTENNA_mem_i1_addr0\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71644, net ANTENNA_mem_i1_addr0\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71683, net ANTENNA_mem_i1_addr0\[7\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71722, instance ANTENNA_mem_i0_din0\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71728, net ANTENNA_mem_i0_din0\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71739, net ANTENNA_mem_i0_din0\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71748, net ANTENNA_mem_i0_din0\[0\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71753, instance ANTENNA_mem_i0_addr0\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71759, net ANTENNA_mem_i0_addr0\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71776, net ANTENNA_mem_i0_addr0\[1\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71860, instance ANTENNA_mem_i0_din0\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71866, net ANTENNA_mem_i0_din0\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71886, net ANTENNA_mem_i0_din0\[1\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71892, instance ANTENNA_mem_i0_din0\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71898, net ANTENNA_mem_i0_din0\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71920, net ANTENNA_mem_i0_din0\[2\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71926, instance ANTENNA_mem_i0_din0\[3\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71932, net ANTENNA_mem_i0_din0\[3\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71939, net ANTENNA_mem_i0_din0\[3\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71939, net ANTENNA_mem_i0_din0\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71940, net ANTENNA_mem_i0_din0\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71954, net ANTENNA_mem_i0_din0\[3\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71960, instance ANTENNA_mem_i0_din0\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71966, net ANTENNA_mem_i0_din0\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71976, net ANTENNA_mem_i0_din0\[3\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71976, net ANTENNA_mem_i0_din0\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71979, net ANTENNA_mem_i0_din0\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71992, net ANTENNA_mem_i0_din0\[4\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71998, instance ANTENNA_mem_i0_addr0\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72004, net ANTENNA_mem_i0_addr0\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72019, net ANTENNA_mem_i0_addr0\[2\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72025, instance ANTENNA_mem_i0_din0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72031, net ANTENNA_mem_i0_din0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72042, net ANTENNA_mem_i0_din0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72050, net ANTENNA_mem_i0_din0\[5\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72056, instance ANTENNA_mem_i0_din0\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72062, net ANTENNA_mem_i0_din0\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72075, net ANTENNA_mem_i0_din0\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72083, net ANTENNA_mem_i0_din0\[6\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72089, instance ANTENNA_mem_i0_din0\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72095, net ANTENNA_mem_i0_din0\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72119, net ANTENNA_mem_i0_din0\[7\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72125, instance ANTENNA_mem_i0_din0\[8\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72131, net ANTENNA_mem_i0_din0\[8\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72142, net ANTENNA_mem_i0_din0\[8\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72154, net ANTENNA_mem_i0_din0\[8\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72242, instance ANTENNA_mem_i0_addr0\[3\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72248, net ANTENNA_mem_i0_addr0\[3\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72261, net ANTENNA_mem_i0_addr0\[3\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72402, instance ANTENNA_mem_i0_addr0\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72408, net ANTENNA_mem_i0_addr0\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72428, net ANTENNA_mem_i0_addr0\[4\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72786, instance ANTENNA_mem_i0_addr0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72792, net ANTENNA_mem_i0_addr0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72800, net ANTENNA_mem_i0_addr0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72801, net ANTENNA_mem_i0_addr0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72818, net ANTENNA_mem_i0_addr0\[5\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73177, instance ANTENNA_mem_i0_addr0\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73183, net ANTENNA_mem_i0_addr0\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73190, net ANTENNA_mem_i0_addr0\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73194, net ANTENNA_mem_i0_addr0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73208, net ANTENNA_mem_i0_addr0\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73622, net ANTENNA_mem_i1_dout1\[3\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73671, net ANTENNA_mem_i1_dout1\[3\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73710, instance ANTENNA_mem_i0_addr0\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73716, net ANTENNA_mem_i0_addr0\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73723, net ANTENNA_mem_i0_addr0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73724, net ANTENNA_mem_i0_addr0\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73733, net ANTENNA_mem_i0_addr0\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73753, net ANTENNA_mem_i1_dout1\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73757, net ANTENNA_mem_i1_dout1\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74196, net ANTENNA_mem_i0_dout1\[14\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74364, net ANTENNA_mem_i0_dout1\[12\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74580, net ANTENNA_mem_i0_addr1\[1\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74742, instance ANTENNA_mem_i0_dout1\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74748, net ANTENNA_mem_i0_dout1\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74766, net ANTENNA_mem_i0_dout1\[0\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74775, instance ANTENNA_mem_i0_dout1\[10\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74781, net ANTENNA_mem_i0_dout1\[10\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74807, net ANTENNA_mem_i0_dout1\[10\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74811, instance ANTENNA_mem_i0_dout1\[11\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74817, net ANTENNA_mem_i0_dout1\[11\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74825, net ANTENNA_mem_i0_dout1\[11\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74843, net ANTENNA_mem_i0_dout1\[11\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74847, instance ANTENNA_mem_i0_dout1\[12\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74853, net ANTENNA_mem_i0_dout1\[12\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74865, net ANTENNA_mem_i0_addr1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74867, net ANTENNA_mem_i0_dout1\[12\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74878, net ANTENNA_mem_i0_dout1\[12\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74884, instance ANTENNA_mem_i0_dout1\[13\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74890, net ANTENNA_mem_i0_dout1\[13\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74904, net ANTENNA_mem_i0_addr1\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74923, net ANTENNA_mem_i0_dout1\[13\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74932, instance ANTENNA_mem_i0_dout1\[14\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74938, net ANTENNA_mem_i0_dout1\[14\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74950, net ANTENNA_mem_i0_dout1\[14\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74968, net ANTENNA_mem_i0_dout1\[14\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74974, instance ANTENNA_mem_i0_dout1\[15\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74980, net ANTENNA_mem_i0_dout1\[15\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75005, net ANTENNA_mem_i0_dout1\[15\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75015, instance ANTENNA_mem_i0_dout1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75021, net ANTENNA_mem_i0_dout1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75032, net ANTENNA_mem_i0_dout1\[8\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75038, net ANTENNA_mem_i0_dout1\[11\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75047, net ANTENNA_mem_i0_dout1\[1\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75057, instance ANTENNA_mem_i0_dout1\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75063, net ANTENNA_mem_i0_dout1\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75087, net ANTENNA_mem_i0_dout1\[2\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75093, instance ANTENNA_mem_i0_dout1\[3\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75099, net ANTENNA_mem_i0_dout1\[3\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75124, net ANTENNA_mem_i0_dout1\[3\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75133, instance ANTENNA_mem_i0_dout1\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75139, net ANTENNA_mem_i0_dout1\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75148, net ANTENNA_mem_i0_dout1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75165, net ANTENNA_mem_i0_dout1\[4\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75171, instance ANTENNA_mem_i0_dout1\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75177, net ANTENNA_mem_i0_dout1\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75203, net ANTENNA_mem_i0_dout1\[5\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75212, instance ANTENNA_mem_i0_dout1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75218, net ANTENNA_mem_i0_dout1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75233, net ANTENNA_mem_i0_dout1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75242, net ANTENNA_mem_i0_dout1\[6\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75246, instance ANTENNA_mem_i0_dout1\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75252, net ANTENNA_mem_i0_dout1\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75277, net ANTENNA_mem_i0_dout1\[7\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75281, instance ANTENNA_mem_i0_dout1\[8\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75287, net ANTENNA_mem_i0_dout1\[8\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75302, net ANTENNA_mem_i0_dout1\[8\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75311, net ANTENNA_mem_i0_dout1\[8\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75315, instance ANTENNA_mem_i0_dout1\[9\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75321, net ANTENNA_mem_i0_dout1\[9\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75347, net ANTENNA_mem_i0_dout1\[9\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75351, instance ANTENNA_mem_i1_dout1\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75357, net ANTENNA_mem_i1_dout1\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75363, net ANTENNA_mem_i1_dout1\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75395, net ANTENNA_mem_i1_dout1\[0\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75399, instance ANTENNA_mem_i1_dout1\[10\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75405, net ANTENNA_mem_i1_dout1\[10\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75413, net ANTENNA_mem_i1_dout1\[10\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75430, net ANTENNA_mem_i1_dout1\[10\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75436, instance ANTENNA_mem_i1_dout1\[11\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75442, net ANTENNA_mem_i1_dout1\[11\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75450, net ANTENNA_mem_i1_dout1\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75465, net ANTENNA_mem_i1_dout1\[11\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75474, instance ANTENNA_mem_i1_dout1\[12\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75480, net ANTENNA_mem_i1_dout1\[12\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75503, net ANTENNA_mem_i1_dout1\[12\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75507, instance ANTENNA_mem_i1_dout1\[13\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75513, net ANTENNA_mem_i1_dout1\[13\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75520, net ANTENNA_mem_i1_dout1\[13\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75541, net ANTENNA_mem_i1_dout1\[13\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75545, instance ANTENNA_mem_i1_dout1\[14\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75551, net ANTENNA_mem_i1_dout1\[14\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75559, net ANTENNA_mem_i1_dout1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75562, net ANTENNA_mem_i1_dout1\[10\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75563, net ANTENNA_mem_i1_dout1\[13\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75577, net ANTENNA_mem_i1_dout1\[14\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75581, instance ANTENNA_mem_i1_dout1\[15\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75587, net ANTENNA_mem_i1_dout1\[15\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75610, net ANTENNA_mem_i1_dout1\[15\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75616, instance ANTENNA_mem_i1_dout1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75622, net ANTENNA_mem_i1_dout1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75635, net ANTENNA_mem_i1_dout1\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75646, net ANTENNA_mem_i1_dout1\[1\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75654, instance ANTENNA_mem_i1_dout1\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75660, net ANTENNA_mem_i1_dout1\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75673, net ANTENNA_mem_i1_dout1\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75681, net ANTENNA_mem_i1_dout1\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75692, net ANTENNA_mem_i1_dout1\[2\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75696, instance ANTENNA_mem_i1_dout1\[3\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75702, net ANTENNA_mem_i1_dout1\[3\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75717, net ANTENNA_mem_i1_dout1\[3\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75719, net ANTENNA_mem_i1_dout1\[3\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75732, net ANTENNA_mem_i1_dout1\[3\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75736, instance ANTENNA_mem_i1_dout1\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75742, net ANTENNA_mem_i1_dout1\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75756, net ANTENNA_mem_i1_dout1\[4\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75767, net ANTENNA_mem_i1_dout1\[4\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75771, instance ANTENNA_mem_i1_dout1\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75777, net ANTENNA_mem_i1_dout1\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75804, net ANTENNA_mem_i1_dout1\[5\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75808, instance ANTENNA_mem_i1_dout1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75814, net ANTENNA_mem_i1_dout1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75830, net ANTENNA_mem_i1_dout1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75842, net ANTENNA_mem_i1_dout1\[6\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75848, instance ANTENNA_mem_i1_dout1\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75854, net ANTENNA_mem_i1_dout1\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75871, net ANTENNA_mem_i1_dout1\[7\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75880, instance ANTENNA_mem_i1_dout1\[8\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75886, net ANTENNA_mem_i1_dout1\[8\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75909, net ANTENNA_mem_i1_dout1\[8\] not found.
+[WARNING STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75913, instance ANTENNA_mem_i1_dout1\[9\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75919, net ANTENNA_mem_i1_dout1\[9\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75944, net ANTENNA_mem_i1_dout1\[9\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75964, net ANTENNA_mem_i1_addr0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 76004, net ANTENNA_mem_i1_addr0\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 76050, net ANTENNA_mem_i1_addr0\[2\] not found.
+[INFO] Using voltage extracted from lib (1.8000000000V) for power nets and 0V for ground nets…
+%OL_CREATE_REPORT irdrop.rpt
+[INFO PSM-0040] All shapes on net vccd1 are connected.
+########## IR report #################
+Net              : vccd1
+Corner           : nom_tt_025C_1v80
+Supply voltage   : 1.80e+00 V
+Worstcase voltage: -2.22e+06 V
+Average voltage  : -3.62e+02 V
+Average IR drop  : 3.64e+02 V
+Worstcase IR drop: 2.22e+06 V
+Percentage drop  : 123098136.00 %
+######################################
+[INFO PSM-0040] All shapes on net vssd1 are connected.
+########## IR report #################
+Net              : vssd1
+Corner           : nom_tt_025C_1v80
+Supply voltage   : 0.00e+00 V
+Worstcase voltage: 2.22e+06 V
+Average voltage  : 3.61e+02 V
+Average IR drop  : 3.61e+02 V
+Worstcase IR drop: 2.22e+06 V
+Percentage drop  : 123098136.00 %
+######################################
+%OL_END_REPORT

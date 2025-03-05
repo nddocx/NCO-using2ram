@@ -1,0 +1,138 @@
+Reading OpenROAD database at '/home/lroot/NCO2ram/runs/RUN_2025-03-04_15-37-33/44-openroad-detailedrouting/counter.odb'…
+Reading library file at '/home/lroot/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+Reading library file at '/home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib'…
+Reading macro library file at '/home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib'…
+[WARNING STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+Reading design constraints file at '/home/lroot/NCO2ram/counter.sdc'…
+[WARNING STA-0366] port 'addr0[0]' not found.
+[WARNING STA-0366] port 'addr0[1]' not found.
+[WARNING STA-0366] port 'addr0[2]' not found.
+[WARNING STA-0366] port 'addr0[3]' not found.
+[WARNING STA-0366] port 'addr0[4]' not found.
+[WARNING STA-0366] port 'addr0[5]' not found.
+[WARNING STA-0366] port 'addr0[6]' not found.
+[WARNING STA-0366] port 'addr0[7]' not found.
+[WARNING STA-0366] port 'csb0' not found.
+[WARNING STA-0366] port 'din0[0]' not found.
+[WARNING STA-0366] port 'din0[10]' not found.
+[WARNING STA-0366] port 'din0[11]' not found.
+[WARNING STA-0366] port 'din0[12]' not found.
+[WARNING STA-0366] port 'din0[13]' not found.
+[WARNING STA-0366] port 'din0[14]' not found.
+[WARNING STA-0366] port 'din0[15]' not found.
+[WARNING STA-0366] port 'din0[1]' not found.
+[WARNING STA-0366] port 'din0[2]' not found.
+[WARNING STA-0366] port 'din0[3]' not found.
+[WARNING STA-0366] port 'din0[4]' not found.
+[WARNING STA-0366] port 'din0[5]' not found.
+[WARNING STA-0366] port 'din0[6]' not found.
+[WARNING STA-0366] port 'din0[7]' not found.
+[WARNING STA-0366] port 'din0[8]' not found.
+[WARNING STA-0366] port 'din0[9]' not found.
+[WARNING STA-0366] port 'csb0' not found.
+[WARNING STA-0366] port 'addr0[7]' not found.
+[WARNING STA-0366] port 'addr0[6]' not found.
+[WARNING STA-0366] port 'addr0[5]' not found.
+[WARNING STA-0366] port 'addr0[4]' not found.
+[WARNING STA-0366] port 'addr0[3]' not found.
+[WARNING STA-0366] port 'addr0[2]' not found.
+[WARNING STA-0366] port 'addr0[1]' not found.
+[WARNING STA-0366] port 'addr0[0]' not found.
+[WARNING STA-0366] port 'din0[15]' not found.
+[WARNING STA-0366] port 'din0[14]' not found.
+[WARNING STA-0366] port 'din0[13]' not found.
+[WARNING STA-0366] port 'din0[12]' not found.
+[WARNING STA-0366] port 'din0[11]' not found.
+[WARNING STA-0366] port 'din0[10]' not found.
+[WARNING STA-0366] port 'din0[9]' not found.
+[WARNING STA-0366] port 'din0[8]' not found.
+[WARNING STA-0366] port 'din0[7]' not found.
+[WARNING STA-0366] port 'din0[6]' not found.
+[WARNING STA-0366] port 'din0[5]' not found.
+[WARNING STA-0366] port 'din0[4]' not found.
+[WARNING STA-0366] port 'din0[3]' not found.
+[WARNING STA-0366] port 'din0[2]' not found.
+[WARNING STA-0366] port 'din0[1]' not found.
+[WARNING STA-0366] port 'din0[0]' not found.
+%OL_CREATE_REPORT /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-37-33/46-openroad-checkantennas-1/reports/antenna.rpt
+Net: sine_out_temp0\[13\]
+  Pin:   _076_/A0 (sky130_fd_sc_hd__mux2_1)
+    Layer: li1
+      Partial area ratio:    0.01
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    0.01
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    0.28
+      Required ratio:   75.00 (Side area) 
+      Cumulative area ratio:    0.28
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    0.66
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    0.67
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    3.22
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    3.50
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.18
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.41
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   19.04
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   19.71
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   93.86
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   97.36
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.32
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.73
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   83.50
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  103.21
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  449.02
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio:  546.38
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.32
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    1.04
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    5.35
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  108.56
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   32.32
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  578.69
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+
+[INFO ANT-0002] Found 1 net violations.
+[INFO ANT-0001] Found 1 pin violations.
+%OL_END_REPORT

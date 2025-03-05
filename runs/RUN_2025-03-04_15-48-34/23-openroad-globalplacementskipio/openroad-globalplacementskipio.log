@@ -1,0 +1,148 @@
+Reading OpenROAD database at '/home/lroot/NCO2ram/runs/RUN_2025-03-04_15-48-34/20-openroad-generatepdn/counter.odb'…
+Reading library file at '/home/lroot/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+Reading library file at '/home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib'…
+Reading macro library file at '/home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib'…
+[WARNING STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+Reading design constraints file at '/home/lroot/NCO2ram/counter.sdc'…
+[WARNING STA-0366] port 'addr0[0]' not found.
+[WARNING STA-0366] port 'addr0[1]' not found.
+[WARNING STA-0366] port 'addr0[2]' not found.
+[WARNING STA-0366] port 'addr0[3]' not found.
+[WARNING STA-0366] port 'addr0[4]' not found.
+[WARNING STA-0366] port 'addr0[5]' not found.
+[WARNING STA-0366] port 'addr0[6]' not found.
+[WARNING STA-0366] port 'addr0[7]' not found.
+[WARNING STA-0366] port 'csb0' not found.
+[WARNING STA-0366] port 'din0[0]' not found.
+[WARNING STA-0366] port 'din0[10]' not found.
+[WARNING STA-0366] port 'din0[11]' not found.
+[WARNING STA-0366] port 'din0[12]' not found.
+[WARNING STA-0366] port 'din0[13]' not found.
+[WARNING STA-0366] port 'din0[14]' not found.
+[WARNING STA-0366] port 'din0[15]' not found.
+[WARNING STA-0366] port 'din0[1]' not found.
+[WARNING STA-0366] port 'din0[2]' not found.
+[WARNING STA-0366] port 'din0[3]' not found.
+[WARNING STA-0366] port 'din0[4]' not found.
+[WARNING STA-0366] port 'din0[5]' not found.
+[WARNING STA-0366] port 'din0[6]' not found.
+[WARNING STA-0366] port 'din0[7]' not found.
+[WARNING STA-0366] port 'din0[8]' not found.
+[WARNING STA-0366] port 'din0[9]' not found.
+[WARNING STA-0366] port 'csb0' not found.
+[WARNING STA-0366] port 'addr0[7]' not found.
+[WARNING STA-0366] port 'addr0[6]' not found.
+[WARNING STA-0366] port 'addr0[5]' not found.
+[WARNING STA-0366] port 'addr0[4]' not found.
+[WARNING STA-0366] port 'addr0[3]' not found.
+[WARNING STA-0366] port 'addr0[2]' not found.
+[WARNING STA-0366] port 'addr0[1]' not found.
+[WARNING STA-0366] port 'addr0[0]' not found.
+[WARNING STA-0366] port 'din0[15]' not found.
+[WARNING STA-0366] port 'din0[14]' not found.
+[WARNING STA-0366] port 'din0[13]' not found.
+[WARNING STA-0366] port 'din0[12]' not found.
+[WARNING STA-0366] port 'din0[11]' not found.
+[WARNING STA-0366] port 'din0[10]' not found.
+[WARNING STA-0366] port 'din0[9]' not found.
+[WARNING STA-0366] port 'din0[8]' not found.
+[WARNING STA-0366] port 'din0[7]' not found.
+[WARNING STA-0366] port 'din0[6]' not found.
+[WARNING STA-0366] port 'din0[5]' not found.
+[WARNING STA-0366] port 'din0[4]' not found.
+[WARNING STA-0366] port 'din0[3]' not found.
+[WARNING STA-0366] port 'din0[2]' not found.
+[WARNING STA-0366] port 'din0[1]' not found.
+[WARNING STA-0366] port 'din0[0]' not found.
++ global_placement -density 0.784154 -skip_io -pad_right 0 -pad_left 0 -init_wirelength_coef 0.25
+[INFO GPL-0002] DBU: 1000
+[INFO GPL-0003] SiteSize: (  0.460  2.720 ) um
+[INFO GPL-0004] CoreBBox: (  5.520 10.880 ) ( 544.180 688.160 ) um
+[INFO GPL-0006] NumInstances:              2588
+[INFO GPL-0007] NumPlaceInstances:           86
+[INFO GPL-0008] NumFixedInstances:         2089
+[INFO GPL-0009] NumDummyInstances:          413
+[INFO GPL-0010] NumNets:                    170
+[INFO GPL-0011] NumPins:                    384
+[INFO GPL-0012] DieBBox:  (  0.000  0.000 ) ( 550.000 700.000 ) um
+[INFO GPL-0013] CoreBBox: (  5.520 10.880 ) ( 544.180 688.160 ) um
+[INFO GPL-0016] CoreArea:            364823.645 um^2
+[INFO GPL-0017] NonPlaceInstsArea:   284734.333 um^2
+[INFO GPL-0018] PlaceInstsArea:        1112.317 um^2
+[INFO GPL-0019] Util:                     1.389 %
+[INFO GPL-0020] StdInstsArea:          1112.317 um^2
+[INFO GPL-0021] MacroInstsArea:           0.000 um^2
+[INFO GPL-0031] FillerInit:NumGCells:      5004
+[INFO GPL-0032] FillerInit:NumGNets:        170
+[INFO GPL-0033] FillerInit:NumGPins:        384
+[INFO GPL-0023] TargetDensity:            0.784
+[INFO GPL-0024] AvrgPlaceInstArea:       12.934 um^2
+[INFO GPL-0025] IdealBinArea:            16.494 um^2
+[INFO GPL-0026] IdealBinCnt:              22118
+[INFO GPL-0027] TotalBinArea:        364823.645 um^2
+[INFO GPL-0028] BinCnt:       128    128
+[INFO GPL-0029] BinSize: (  4.209  5.292 )
+[INFO GPL-0030] NumBins: 16384
+[NesterovSolve] Iter:    1 overflow: 0.636 HPWL: 13899704
+[NesterovSolve] Iter:   10 overflow: 0.865 HPWL: 12172523
+[NesterovSolve] Iter:   20 overflow: 0.867 HPWL: 12022704
+[NesterovSolve] Iter:   30 overflow: 0.866 HPWL: 12061776
+[NesterovSolve] Iter:   40 overflow: 0.864 HPWL: 12042450
+[NesterovSolve] Iter:   50 overflow: 0.866 HPWL: 12050325
+[NesterovSolve] Iter:   60 overflow: 0.865 HPWL: 12048931
+[NesterovSolve] Iter:   70 overflow: 0.866 HPWL: 12047530
+[NesterovSolve] Iter:   80 overflow: 0.866 HPWL: 12049086
+[NesterovSolve] Iter:   90 overflow: 0.866 HPWL: 12046715
+[NesterovSolve] Iter:  100 overflow: 0.866 HPWL: 12046430
+[NesterovSolve] Iter:  110 overflow: 0.866 HPWL: 12046388
+[NesterovSolve] Iter:  120 overflow: 0.866 HPWL: 12047202
+[NesterovSolve] Iter:  130 overflow: 0.866 HPWL: 12048211
+[NesterovSolve] Iter:  140 overflow: 0.865 HPWL: 12060441
+[NesterovSolve] Iter:  150 overflow: 0.865 HPWL: 12086262
+[NesterovSolve] Iter:  160 overflow: 0.865 HPWL: 12121780
+[NesterovSolve] Iter:  170 overflow: 0.865 HPWL: 12182182
+[NesterovSolve] Iter:  180 overflow: 0.865 HPWL: 12250518
+[NesterovSolve] Iter:  190 overflow: 0.865 HPWL: 12319980
+[NesterovSolve] Iter:  200 overflow: 0.864 HPWL: 12374639
+[NesterovSolve] Iter:  210 overflow: 0.864 HPWL: 12406440
+[NesterovSolve] Iter:  220 overflow: 0.864 HPWL: 12397667
+[NesterovSolve] Iter:  230 overflow: 0.863 HPWL: 12369824
+[NesterovSolve] Iter:  240 overflow: 0.862 HPWL: 12398466
+[NesterovSolve] Iter:  250 overflow: 0.860 HPWL: 12380654
+[NesterovSolve] Iter:  260 overflow: 0.858 HPWL: 12317146
+[NesterovSolve] Iter:  270 overflow: 0.863 HPWL: 12300021
+[NesterovSolve] Iter:  280 overflow: 0.859 HPWL: 12246861
+[NesterovSolve] Iter:  290 overflow: 0.859 HPWL: 12220025
+[NesterovSolve] Iter:  300 overflow: 0.859 HPWL: 12243326
+[NesterovSolve] Iter:  310 overflow: 0.852 HPWL: 12201376
+[NesterovSolve] Iter:  320 overflow: 0.854 HPWL: 12240663
+[NesterovSolve] Iter:  330 overflow: 0.847 HPWL: 12237834
+[NesterovSolve] Iter:  340 overflow: 0.843 HPWL: 12328814
+[NesterovSolve] Iter:  350 overflow: 0.656 HPWL: 12481882
+[NesterovSolve] Iter:  360 overflow: 0.441 HPWL: 12471004
+[NesterovSolve] Iter:  370 overflow: 0.376 HPWL: 12430164
+[NesterovSolve] Iter:  380 overflow: 0.334 HPWL: 12277596
+[NesterovSolve] Iter:  390 overflow: 0.294 HPWL: 12114010
+[NesterovSolve] Iter:  400 overflow: 0.249 HPWL: 11914157
+[NesterovSolve] Iter:  410 overflow: 0.170 HPWL: 11698080
+[NesterovSolve] Iter:  420 overflow: 0.104 HPWL: 11601226
+[NesterovSolve] Finished with Overflow: 0.097859
+[INFO] Setting RC values…
+Setting global connections for newly added cells…
+[INFO] Setting global connections...
+mem_i.* matched with mem_i0
+mem_i.* matched with mem_i1
+Updating metrics…
+Cell type report:                       Count       Area
+  Macro                                     2  247030.69
+  Fill cell                               926    3475.83
+  Tap cell                               1161    1452.64
+  Inverter                                 26      97.59
+  Sequential cell                          25     656.88
+  Multi-Input combinational cell           35     357.84
+  Total                                  2175  253071.48
+Writing OpenROAD database to '/home/lroot/NCO2ram/runs/RUN_2025-03-04_15-48-34/23-openroad-globalplacementskipio/counter.odb'…
+Writing netlist to '/home/lroot/NCO2ram/runs/RUN_2025-03-04_15-48-34/23-openroad-globalplacementskipio/counter.nl.v'…
+Writing powered netlist to '/home/lroot/NCO2ram/runs/RUN_2025-03-04_15-48-34/23-openroad-globalplacementskipio/counter.pnl.v'…
+Writing layout to '/home/lroot/NCO2ram/runs/RUN_2025-03-04_15-48-34/23-openroad-globalplacementskipio/counter.def'…
+Writing timing constraints to '/home/lroot/NCO2ram/runs/RUN_2025-03-04_15-48-34/23-openroad-globalplacementskipio/counter.sdc'…

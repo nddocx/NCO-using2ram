@@ -1,0 +1,1622 @@
+13 Lint warnings found.
+'PNR_SDC_FILE' is not defined. Using generic fallback SDC for OpenROAD PnR steps.
+'SIGNOFF_SDC_FILE' is not defined. Using generic fallback SDC for OpenROAD PnR steps.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+Cell 'ram_256x16' has (36) input pin(s) without antenna gate information. They might not be connected to a gate.
+Cell 'ram_256x16' has (16) output pin(s) without antenna diffusion information. They might not be driven.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[GRT-0097] No global routing found for nets.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[GRT-0097] No global routing found for nets.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[RSZ-0062] Unable to repair all setup violations.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[GRT-0097] No global routing found for nets.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+'GPL_CELL_PADDING' is set to 0. This step may cause overlap failures.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer mcon
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer mcon
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via2
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via2
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via3
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via3
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via4
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via4
+[DRT-0418] Term mem_i0/addr0[3] has no pins on routing grid
+[DRT-0418] Term mem_i0/addr0[4] has no pins on routing grid
+[DRT-0418] Term mem_i0/addr0[7] has no pins on routing grid
+[DRT-0418] Term mem_i0/clk1 has no pins on routing grid
+[DRT-0418] Term mem_i0/dout1[0] has no pins on routing grid
+[DRT-0418] Term mem_i0/dout1[1] has no pins on routing grid
+[DRT-0418] Term mem_i0/dout1[3] has no pins on routing grid
+[DRT-0418] Term mem_i0/dout1[5] has no pins on routing grid
+[DRT-0418] Term mem_i0/dout1[7] has no pins on routing grid
+[DRT-0418] Term mem_i0/dout1[8] has no pins on routing grid
+[DRT-0418] Term mem_i0/dout1[10] has no pins on routing grid
+[DRT-0418] Term mem_i0/dout1[12] has no pins on routing grid
+[DRT-0418] Term mem_i0/dout1[14] has no pins on routing grid
+[DRT-0418] Term mem_i0/dout1[15] has no pins on routing grid
+[DRT-0418] Term mem_i1/addr0[3] has no pins on routing grid
+[DRT-0418] Term mem_i1/addr0[4] has no pins on routing grid
+[DRT-0418] Term mem_i1/addr0[7] has no pins on routing grid
+[DRT-0418] Term mem_i1/addr1[0] has no pins on routing grid
+[DRT-0418] Term mem_i1/dout1[1] has no pins on routing grid
+[DRT-0418] Term mem_i1/dout1[3] has no pins on routing grid
+[DRT-0418] Term mem_i1/dout1[5] has no pins on routing grid
+[DRT-0418] Term mem_i1/dout1[6] has no pins on routing grid
+[DRT-0418] Term mem_i1/dout1[8] has no pins on routing grid
+[DRT-0418] Term mem_i1/dout1[10] has no pins on routing grid
+[DRT-0418] Term mem_i1/dout1[12] has no pins on routing grid
+[DRT-0418] Term mem_i1/dout1[13] has no pins on routing grid
+[DRT-0418] Term mem_i1/dout1[15] has no pins on routing grid
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+Threshold for Threshold-surpassing long wires is not set. The checker will be skipped.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+'VSRC_LOC_FILES' was not given a value, which may make the results of IR drop analysis inaccurate. If you are not integrating a top-level chip for manufacture, you may ignore this warning, otherwise, see the documentation for 'VSRC_LOC_FILES'.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 68659, net ANTENNA_mem_i1_addr0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69056, net ANTENNA_mem_i0_din0\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69057, net ANTENNA_mem_i0_din0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69058, net ANTENNA_mem_i0_din0\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69059, net ANTENNA_mem_i0_din0\[8\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69193, net ANTENNA_mem_i0_addr1\[4\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69647, instance ANTENNA_mem_i0_addr0\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69653, net ANTENNA_mem_i0_addr0\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69675, net ANTENNA_mem_i0_addr0\[0\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69990, instance ANTENNA_mem_i0_addr1\[7\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 69996, net ANTENNA_mem_i0_addr1\[7\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70003, net ANTENNA_mem_i0_addr1\[7\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70003, net ANTENNA_mem_i0_addr1\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70021, net ANTENNA_mem_i0_addr1\[7\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70138, instance ANTENNA_mem_i0_addr1\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70144, net ANTENNA_mem_i0_addr1\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70152, net ANTENNA_mem_i0_addr1\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70152, net ANTENNA_mem_i0_addr1\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70153, net ANTENNA_mem_i0_addr1\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70158, net ANTENNA_mem_i0_addr1\[7\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70158, net ANTENNA_mem_i0_addr1\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70169, net ANTENNA_mem_i0_addr1\[6\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70192, instance ANTENNA_mem_i1_addr0\[2\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70198, net ANTENNA_mem_i1_addr0\[2\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70204, net ANTENNA_mem_i1_addr0\[2\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70234, net ANTENNA_mem_i1_addr0\[2\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70306, instance ANTENNA_mem_i0_addr1\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70312, net ANTENNA_mem_i0_addr1\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70328, net ANTENNA_mem_i0_addr1\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70328, net ANTENNA_mem_i0_addr1\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70329, net ANTENNA_mem_i0_addr1\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70345, net ANTENNA_mem_i0_addr1\[5\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70425, instance ANTENNA_mem_i0_addr1\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70431, net ANTENNA_mem_i0_addr1\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70445, net ANTENNA_mem_i0_addr1\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70452, net ANTENNA_mem_i0_addr1\[4\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70523, instance ANTENNA_mem_i0_addr1\[3\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70529, net ANTENNA_mem_i0_addr1\[3\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70544, net ANTENNA_mem_i0_addr1\[3\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70635, instance ANTENNA_mem_i1_addr0\[3\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70641, net ANTENNA_mem_i1_addr0\[3\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70676, net ANTENNA_mem_i1_addr0\[3\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70744, instance ANTENNA_mem_i0_addr1\[2\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70750, net ANTENNA_mem_i0_addr1\[2\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70770, net ANTENNA_mem_i0_addr1\[2\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70795, instance ANTENNA_mem_i0_addr1\[1\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70801, net ANTENNA_mem_i0_addr1\[1\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70811, net ANTENNA_mem_i0_addr1\[1\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70811, net ANTENNA_mem_i0_addr1\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70812, net ANTENNA_mem_i0_addr1\[1\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70813, net ANTENNA_mem_i0_addr1\[1\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70814, net ANTENNA_mem_i0_addr1\[1\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70826, net ANTENNA_mem_i0_addr1\[1\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70923, instance ANTENNA_mem_i0_addr1\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70929, net ANTENNA_mem_i0_addr1\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70936, net ANTENNA_mem_i0_addr1\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70943, net ANTENNA_mem_i0_addr1\[1\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70943, net ANTENNA_mem_i0_addr1\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70944, net ANTENNA_mem_i0_addr1\[1\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 70954, net ANTENNA_mem_i0_addr1\[0\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71039, instance ANTENNA_mem_i1_addr0\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71045, net ANTENNA_mem_i1_addr0\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71074, net ANTENNA_mem_i1_addr0\[4\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71548, instance ANTENNA_mem_i1_addr0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71554, net ANTENNA_mem_i1_addr0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71561, net ANTENNA_mem_i1_addr0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71562, net ANTENNA_mem_i1_addr0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71566, net ANTENNA_mem_i1_addr0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71579, net ANTENNA_mem_i1_addr0\[5\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71587, instance ANTENNA_mem_i1_addr0\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71593, net ANTENNA_mem_i1_addr0\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71631, net ANTENNA_mem_i1_addr0\[6\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71638, instance ANTENNA_mem_i1_addr0\[7\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71644, net ANTENNA_mem_i1_addr0\[7\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71683, net ANTENNA_mem_i1_addr0\[7\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71722, instance ANTENNA_mem_i0_din0\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71728, net ANTENNA_mem_i0_din0\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71739, net ANTENNA_mem_i0_din0\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71748, net ANTENNA_mem_i0_din0\[0\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71753, instance ANTENNA_mem_i0_addr0\[1\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71759, net ANTENNA_mem_i0_addr0\[1\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71776, net ANTENNA_mem_i0_addr0\[1\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71860, instance ANTENNA_mem_i0_din0\[1\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71866, net ANTENNA_mem_i0_din0\[1\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71886, net ANTENNA_mem_i0_din0\[1\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71892, instance ANTENNA_mem_i0_din0\[2\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71898, net ANTENNA_mem_i0_din0\[2\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71920, net ANTENNA_mem_i0_din0\[2\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71926, instance ANTENNA_mem_i0_din0\[3\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71932, net ANTENNA_mem_i0_din0\[3\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71939, net ANTENNA_mem_i0_din0\[3\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71939, net ANTENNA_mem_i0_din0\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71940, net ANTENNA_mem_i0_din0\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71954, net ANTENNA_mem_i0_din0\[3\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71960, instance ANTENNA_mem_i0_din0\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71966, net ANTENNA_mem_i0_din0\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71976, net ANTENNA_mem_i0_din0\[3\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71976, net ANTENNA_mem_i0_din0\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71979, net ANTENNA_mem_i0_din0\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71992, net ANTENNA_mem_i0_din0\[4\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 71998, instance ANTENNA_mem_i0_addr0\[2\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72004, net ANTENNA_mem_i0_addr0\[2\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72019, net ANTENNA_mem_i0_addr0\[2\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72025, instance ANTENNA_mem_i0_din0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72031, net ANTENNA_mem_i0_din0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72042, net ANTENNA_mem_i0_din0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72050, net ANTENNA_mem_i0_din0\[5\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72056, instance ANTENNA_mem_i0_din0\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72062, net ANTENNA_mem_i0_din0\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72075, net ANTENNA_mem_i0_din0\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72083, net ANTENNA_mem_i0_din0\[6\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72089, instance ANTENNA_mem_i0_din0\[7\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72095, net ANTENNA_mem_i0_din0\[7\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72119, net ANTENNA_mem_i0_din0\[7\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72125, instance ANTENNA_mem_i0_din0\[8\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72131, net ANTENNA_mem_i0_din0\[8\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72142, net ANTENNA_mem_i0_din0\[8\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72154, net ANTENNA_mem_i0_din0\[8\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72242, instance ANTENNA_mem_i0_addr0\[3\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72248, net ANTENNA_mem_i0_addr0\[3\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72261, net ANTENNA_mem_i0_addr0\[3\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72402, instance ANTENNA_mem_i0_addr0\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72408, net ANTENNA_mem_i0_addr0\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72428, net ANTENNA_mem_i0_addr0\[4\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72786, instance ANTENNA_mem_i0_addr0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72792, net ANTENNA_mem_i0_addr0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72800, net ANTENNA_mem_i0_addr0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72801, net ANTENNA_mem_i0_addr0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 72818, net ANTENNA_mem_i0_addr0\[5\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73177, instance ANTENNA_mem_i0_addr0\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73183, net ANTENNA_mem_i0_addr0\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73190, net ANTENNA_mem_i0_addr0\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73194, net ANTENNA_mem_i0_addr0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73208, net ANTENNA_mem_i0_addr0\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73622, net ANTENNA_mem_i1_dout1\[3\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73671, net ANTENNA_mem_i1_dout1\[3\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73710, instance ANTENNA_mem_i0_addr0\[7\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73716, net ANTENNA_mem_i0_addr0\[7\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73723, net ANTENNA_mem_i0_addr0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73724, net ANTENNA_mem_i0_addr0\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73733, net ANTENNA_mem_i0_addr0\[7\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73753, net ANTENNA_mem_i1_dout1\[2\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 73757, net ANTENNA_mem_i1_dout1\[2\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74196, net ANTENNA_mem_i0_dout1\[14\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74364, net ANTENNA_mem_i0_dout1\[12\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74580, net ANTENNA_mem_i0_addr1\[1\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74742, instance ANTENNA_mem_i0_dout1\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74748, net ANTENNA_mem_i0_dout1\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74766, net ANTENNA_mem_i0_dout1\[0\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74775, instance ANTENNA_mem_i0_dout1\[10\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74781, net ANTENNA_mem_i0_dout1\[10\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74807, net ANTENNA_mem_i0_dout1\[10\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74811, instance ANTENNA_mem_i0_dout1\[11\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74817, net ANTENNA_mem_i0_dout1\[11\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74825, net ANTENNA_mem_i0_dout1\[11\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74843, net ANTENNA_mem_i0_dout1\[11\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74847, instance ANTENNA_mem_i0_dout1\[12\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74853, net ANTENNA_mem_i0_dout1\[12\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74865, net ANTENNA_mem_i0_addr1\[1\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74867, net ANTENNA_mem_i0_dout1\[12\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74878, net ANTENNA_mem_i0_dout1\[12\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74884, instance ANTENNA_mem_i0_dout1\[13\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74890, net ANTENNA_mem_i0_dout1\[13\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74904, net ANTENNA_mem_i0_addr1\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74923, net ANTENNA_mem_i0_dout1\[13\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74932, instance ANTENNA_mem_i0_dout1\[14\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74938, net ANTENNA_mem_i0_dout1\[14\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74950, net ANTENNA_mem_i0_dout1\[14\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74968, net ANTENNA_mem_i0_dout1\[14\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74974, instance ANTENNA_mem_i0_dout1\[15\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 74980, net ANTENNA_mem_i0_dout1\[15\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75005, net ANTENNA_mem_i0_dout1\[15\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75015, instance ANTENNA_mem_i0_dout1\[1\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75021, net ANTENNA_mem_i0_dout1\[1\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75032, net ANTENNA_mem_i0_dout1\[8\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75038, net ANTENNA_mem_i0_dout1\[11\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75047, net ANTENNA_mem_i0_dout1\[1\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75057, instance ANTENNA_mem_i0_dout1\[2\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75063, net ANTENNA_mem_i0_dout1\[2\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75087, net ANTENNA_mem_i0_dout1\[2\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75093, instance ANTENNA_mem_i0_dout1\[3\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75099, net ANTENNA_mem_i0_dout1\[3\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75124, net ANTENNA_mem_i0_dout1\[3\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75133, instance ANTENNA_mem_i0_dout1\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75139, net ANTENNA_mem_i0_dout1\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75148, net ANTENNA_mem_i0_dout1\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75165, net ANTENNA_mem_i0_dout1\[4\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75171, instance ANTENNA_mem_i0_dout1\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75177, net ANTENNA_mem_i0_dout1\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75203, net ANTENNA_mem_i0_dout1\[5\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75212, instance ANTENNA_mem_i0_dout1\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75218, net ANTENNA_mem_i0_dout1\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75233, net ANTENNA_mem_i0_dout1\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75242, net ANTENNA_mem_i0_dout1\[6\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75246, instance ANTENNA_mem_i0_dout1\[7\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75252, net ANTENNA_mem_i0_dout1\[7\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75277, net ANTENNA_mem_i0_dout1\[7\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75281, instance ANTENNA_mem_i0_dout1\[8\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75287, net ANTENNA_mem_i0_dout1\[8\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75302, net ANTENNA_mem_i0_dout1\[8\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75311, net ANTENNA_mem_i0_dout1\[8\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75315, instance ANTENNA_mem_i0_dout1\[9\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75321, net ANTENNA_mem_i0_dout1\[9\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75347, net ANTENNA_mem_i0_dout1\[9\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75351, instance ANTENNA_mem_i1_dout1\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75357, net ANTENNA_mem_i1_dout1\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75363, net ANTENNA_mem_i1_dout1\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75395, net ANTENNA_mem_i1_dout1\[0\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75399, instance ANTENNA_mem_i1_dout1\[10\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75405, net ANTENNA_mem_i1_dout1\[10\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75413, net ANTENNA_mem_i1_dout1\[10\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75430, net ANTENNA_mem_i1_dout1\[10\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75436, instance ANTENNA_mem_i1_dout1\[11\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75442, net ANTENNA_mem_i1_dout1\[11\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75450, net ANTENNA_mem_i1_dout1\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75465, net ANTENNA_mem_i1_dout1\[11\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75474, instance ANTENNA_mem_i1_dout1\[12\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75480, net ANTENNA_mem_i1_dout1\[12\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75503, net ANTENNA_mem_i1_dout1\[12\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75507, instance ANTENNA_mem_i1_dout1\[13\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75513, net ANTENNA_mem_i1_dout1\[13\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75520, net ANTENNA_mem_i1_dout1\[13\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75541, net ANTENNA_mem_i1_dout1\[13\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75545, instance ANTENNA_mem_i1_dout1\[14\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75551, net ANTENNA_mem_i1_dout1\[14\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75559, net ANTENNA_mem_i1_dout1\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75562, net ANTENNA_mem_i1_dout1\[10\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75563, net ANTENNA_mem_i1_dout1\[13\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75577, net ANTENNA_mem_i1_dout1\[14\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75581, instance ANTENNA_mem_i1_dout1\[15\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75587, net ANTENNA_mem_i1_dout1\[15\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75610, net ANTENNA_mem_i1_dout1\[15\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75616, instance ANTENNA_mem_i1_dout1\[1\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75622, net ANTENNA_mem_i1_dout1\[1\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75635, net ANTENNA_mem_i1_dout1\[0\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75646, net ANTENNA_mem_i1_dout1\[1\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75654, instance ANTENNA_mem_i1_dout1\[2\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75660, net ANTENNA_mem_i1_dout1\[2\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75673, net ANTENNA_mem_i1_dout1\[2\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75681, net ANTENNA_mem_i1_dout1\[2\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75692, net ANTENNA_mem_i1_dout1\[2\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75696, instance ANTENNA_mem_i1_dout1\[3\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75702, net ANTENNA_mem_i1_dout1\[3\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75717, net ANTENNA_mem_i1_dout1\[3\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75719, net ANTENNA_mem_i1_dout1\[3\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75732, net ANTENNA_mem_i1_dout1\[3\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75736, instance ANTENNA_mem_i1_dout1\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75742, net ANTENNA_mem_i1_dout1\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75756, net ANTENNA_mem_i1_dout1\[4\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75767, net ANTENNA_mem_i1_dout1\[4\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75771, instance ANTENNA_mem_i1_dout1\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75777, net ANTENNA_mem_i1_dout1\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75804, net ANTENNA_mem_i1_dout1\[5\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75808, instance ANTENNA_mem_i1_dout1\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75814, net ANTENNA_mem_i1_dout1\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75830, net ANTENNA_mem_i1_dout1\[6\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75842, net ANTENNA_mem_i1_dout1\[6\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75848, instance ANTENNA_mem_i1_dout1\[7\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75854, net ANTENNA_mem_i1_dout1\[7\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75871, net ANTENNA_mem_i1_dout1\[7\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75880, instance ANTENNA_mem_i1_dout1\[8\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75886, net ANTENNA_mem_i1_dout1\[8\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75909, net ANTENNA_mem_i1_dout1\[8\] not found.
+[STA-1648] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75913, instance ANTENNA_mem_i1_dout1\[9\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75919, net ANTENNA_mem_i1_dout1\[9\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75944, net ANTENNA_mem_i1_dout1\[9\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 75964, net ANTENNA_mem_i1_addr0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 76004, net ANTENNA_mem_i1_addr0\[5\] not found.
+[STA-1650] /home/lroot/NCO2ram/runs/RUN_2025-03-04_15-11-40/54-openroad-rcx/nom/counter.nom.spef line 76050, net ANTENNA_mem_i1_addr0\[2\] not found.
+Setup violations found in the following corners:
+* max_ss_100C_1v60
+* min_ss_100C_1v60
+* nom_ss_100C_1v60
+Max Slew violations found in the following corners:
+* max_ff_n40C_1v95
+* max_ss_100C_1v60
+* max_tt_025C_1v80
+* min_ff_n40C_1v95
+* min_ss_100C_1v60
+* min_tt_025C_1v80
+* nom_ff_n40C_1v95
+* nom_ss_100C_1v60
+* nom_tt_025C_1v80
+Max Cap violations found in the following corners:
+* max_ff_n40C_1v95
+* max_ss_100C_1v60
+* max_tt_025C_1v80
+* min_ff_n40C_1v95
+* min_ss_100C_1v60
+* min_tt_025C_1v80
+* nom_ff_n40C_1v95
+* nom_ss_100C_1v60
+* nom_tt_025C_1v80
+klayout__drc_error__count not reported. KLayout.DRC may have been skipped.
+magic__drc_error__count not reported. Magic.DRC may have been skipped.

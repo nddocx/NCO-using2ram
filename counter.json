@@ -1,0 +1,41 @@
+{
+  "DESIGN_NAME": "counter",
+  "VERILOG_FILES": ["dir::counter.v", "dir::ram_256x16/ram_256x16.v"],
+  "CLOCK_PORT": "clk",
+  "CLOCK_PERIOD": 5.2,
+  "//DESIGN_IS_CORE": true,
+  "FP_SIZING": "absolute",
+  "DIE_AREA": "0 0 550 750",
+  "FALLBACK_SDC_FILE":"dir::counter.sdc",
+  "//PL_TARGET_DENSITY": 0.5,
+  "VDD_NETS": "vccd1",
+  "GND_NETS": "vssd1",
+  "PDN_MACRO_CONNECTIONS": ["mem_i.* vccd1 vssd1 vccd1 vssd1"],
+  "RUN_MAGIC_DRC": false,
+  "RUN_KLAYOUT_DRC": false,
+  "//RUN_LVS":false,
+  "MAGIC_MACRO_STD_CELL_SOURCE":"macro",
+  "MAGIC_DRC_USE_GDS":false,
+  "GRT_ANTENNA_ITERS":10,
+  "GRT_ANTENNA_MARGIN":15,
+  "RUN_HEURISTIC_DIODE_INSERTION":true,
+  "//STA_CORNERS":["min_tt_025C_1v80","nom_tt_025C_1v80","max_tt_025C_1v80"],
+  "STA_CORNERS":["min_ss_100C_1v60","nom_ss_100C_1v60","max_ss_100C_1v60"],
+  "MACROS": {
+    "ram_256x16": {
+      "instances": {
+        "mem_i0": {
+          "orientation": "N",
+	  "location": [50, 50]
+	}, 
+        "mem_i1": {
+          "orientation": "N",
+	  "location": [50, 400]
+        }
+      },
+      "gds": ["dir::./ram_256x16/ram_256x16.gds"],
+      "lef": ["dir::./ram_256x16/ram_256x16.lef"],
+      "lib": {"*":["dir::./ram_256x16/ram_256x16_TT_1p8V_25C.lib"]}
+    }
+  }
+}

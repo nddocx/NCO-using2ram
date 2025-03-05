@@ -1,0 +1,44 @@
+%Warning-PINMISSING: /home/lroot/NCOver2/counter.v:16:13: Cell has missing pin: 'vccd1'
+   16 |  ram_256x16 mem_i(
+      |             ^~~~~
+                     ... For warning description see https://verilator.org/warn/PINMISSING?v=5.018
+                     ... Use "/* verilator lint_off PINMISSING */" and lint_on around source to disable this message.
+%Warning-PINMISSING: /home/lroot/NCOver2/counter.v:16:13: Cell has missing pin: 'vssd1'
+   16 |  ram_256x16 mem_i(
+      |             ^~~~~
+%Warning-UNUSEDPARAM: /home/lroot/NCOver2/ram_256x16/ram_256x16.v:20:13: Parameter is not used: 'DELAY'
+                                                                       : ... note: In instance 'counter.mem_i'
+   20 |   parameter DELAY = 3 ;
+      |             ^~~~~
+%Warning-UNUSEDPARAM: /home/lroot/NCOver2/ram_256x16/ram_256x16.v:21:13: Parameter is not used: 'VERBOSE'
+                                                                       : ... note: In instance 'counter.mem_i'
+   21 |   parameter VERBOSE = 1 ;  
+      |             ^~~~~~~
+%Warning-UNUSEDPARAM: /home/lroot/NCOver2/ram_256x16/ram_256x16.v:22:13: Parameter is not used: 'T_HOLD'
+                                                                       : ... note: In instance 'counter.mem_i'
+   22 |   parameter T_HOLD = 1 ;  
+      |             ^~~~~~
+%Warning-BLKSEQ: /home/lroot/NCOver2/ram_256x16/ram_256x16.v:45:14: Blocking assignment '=' in sequential logic process
+                                                                  : ... Suggest using delayed assignment '<='
+   45 |     csb0_reg = csb0;
+      |              ^
+%Warning-BLKSEQ: /home/lroot/NCOver2/ram_256x16/ram_256x16.v:46:15: Blocking assignment '=' in sequential logic process
+                                                                  : ... Suggest using delayed assignment '<='
+   46 |     addr0_reg = addr0;
+      |               ^
+%Warning-BLKSEQ: /home/lroot/NCOver2/ram_256x16/ram_256x16.v:47:14: Blocking assignment '=' in sequential logic process
+                                                                  : ... Suggest using delayed assignment '<='
+   47 |     din0_reg = din0;
+      |              ^
+%Warning-BLKSEQ: /home/lroot/NCOver2/ram_256x16/ram_256x16.v:59:14: Blocking assignment '=' in sequential logic process
+                                                                  : ... Suggest using delayed assignment '<='
+   59 |     csb1_reg = csb1;
+      |              ^
+%Warning-BLKSEQ: /home/lroot/NCOver2/ram_256x16/ram_256x16.v:60:15: Blocking assignment '=' in sequential logic process
+                                                                  : ... Suggest using delayed assignment '<='
+   60 |     addr1_reg = addr1;
+      |               ^
+%Warning-BLKSEQ: /home/lroot/NCOver2/ram_256x16/ram_256x16.v:74:30: Blocking assignment '=' in sequential logic process
+                                                                  : ... Suggest using delayed assignment '<='
+   74 |         mem[addr0_reg][15:0] = din0_reg[15:0];
+      |                              ^

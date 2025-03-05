@@ -1,0 +1,128 @@
+Reading timing models for corner min_ss_100C_1v60…
+Reading timing library for the 'min_ss_100C_1v60' corner at '/home/lroot/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib'…
+Reading timing library for the 'min_ss_100C_1v60' corner at '/home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib'…
+Reading OpenROAD database at '/home/lroot/NCO2ram/runs/RUN_2025-03-04_16-07-57/27-openroad-globalplacement/counter.odb'…
+Reading design constraints file at '/home/lroot/NCO2ram/counter.sdc'…
+[WARNING STA-0366] port 'addr0[0]' not found.
+[WARNING STA-0366] port 'addr0[1]' not found.
+[WARNING STA-0366] port 'addr0[2]' not found.
+[WARNING STA-0366] port 'addr0[3]' not found.
+[WARNING STA-0366] port 'addr0[4]' not found.
+[WARNING STA-0366] port 'addr0[5]' not found.
+[WARNING STA-0366] port 'addr0[6]' not found.
+[WARNING STA-0366] port 'addr0[7]' not found.
+[WARNING STA-0366] port 'csb0' not found.
+[WARNING STA-0366] port 'din0[0]' not found.
+[WARNING STA-0366] port 'din0[10]' not found.
+[WARNING STA-0366] port 'din0[11]' not found.
+[WARNING STA-0366] port 'din0[12]' not found.
+[WARNING STA-0366] port 'din0[13]' not found.
+[WARNING STA-0366] port 'din0[14]' not found.
+[WARNING STA-0366] port 'din0[15]' not found.
+[WARNING STA-0366] port 'din0[1]' not found.
+[WARNING STA-0366] port 'din0[2]' not found.
+[WARNING STA-0366] port 'din0[3]' not found.
+[WARNING STA-0366] port 'din0[4]' not found.
+[WARNING STA-0366] port 'din0[5]' not found.
+[WARNING STA-0366] port 'din0[6]' not found.
+[WARNING STA-0366] port 'din0[7]' not found.
+[WARNING STA-0366] port 'din0[8]' not found.
+[WARNING STA-0366] port 'din0[9]' not found.
+[WARNING STA-0366] port 'csb0' not found.
+[WARNING STA-0366] port 'addr0[7]' not found.
+[WARNING STA-0366] port 'addr0[6]' not found.
+[WARNING STA-0366] port 'addr0[5]' not found.
+[WARNING STA-0366] port 'addr0[4]' not found.
+[WARNING STA-0366] port 'addr0[3]' not found.
+[WARNING STA-0366] port 'addr0[2]' not found.
+[WARNING STA-0366] port 'addr0[1]' not found.
+[WARNING STA-0366] port 'addr0[0]' not found.
+[WARNING STA-0366] port 'din0[15]' not found.
+[WARNING STA-0366] port 'din0[14]' not found.
+[WARNING STA-0366] port 'din0[13]' not found.
+[WARNING STA-0366] port 'din0[12]' not found.
+[WARNING STA-0366] port 'din0[11]' not found.
+[WARNING STA-0366] port 'din0[10]' not found.
+[WARNING STA-0366] port 'din0[9]' not found.
+[WARNING STA-0366] port 'din0[8]' not found.
+[WARNING STA-0366] port 'din0[7]' not found.
+[WARNING STA-0366] port 'din0[6]' not found.
+[WARNING STA-0366] port 'din0[5]' not found.
+[WARNING STA-0366] port 'din0[4]' not found.
+[WARNING STA-0366] port 'din0[3]' not found.
+[WARNING STA-0366] port 'din0[2]' not found.
+[WARNING STA-0366] port 'din0[1]' not found.
+[WARNING STA-0366] port 'din0[0]' not found.
+[INFO] Setting RC values…
+[INFO RSZ-0027] Inserted 51 input buffers.
+[INFO RSZ-0028] Inserted 16 output buffers.
+[INFO RSZ-0058] Using max wire length 6352um.
+Iteration | Resized | Buffers | Nets repaired | Remaining
+---------------------------------------------------------
+        0 |       0 |       0 |             0 |       239
+       10 |       9 |       0 |             0 |       229
+       20 |      16 |       0 |             0 |       219
+       30 |      16 |       0 |             0 |       209
+       40 |      21 |       0 |             0 |       199
+       50 |      31 |       0 |             0 |       189
+       60 |      32 |       9 |             9 |       179
+       70 |      32 |      15 |            15 |       169
+       80 |      32 |      15 |            15 |       159
+       90 |      39 |      15 |            15 |       149
+      100 |      59 |      43 |            24 |       139
+      110 |      67 |      43 |            24 |       129
+      120 |      67 |      43 |            24 |       119
+      130 |      67 |      43 |            24 |       109
+      140 |      77 |      46 |            30 |        99
+      150 |      87 |      46 |            30 |        89
+      160 |      97 |      46 |            31 |        79
+      170 |     107 |      46 |            32 |        69
+      180 |     116 |      46 |            37 |        59
+      190 |     120 |      46 |            41 |        49
+      200 |     120 |      46 |            41 |        39
+      210 |     120 |      46 |            41 |        29
+      220 |     120 |      46 |            41 |        19
+      230 |     120 |      46 |            41 |         9
+    final |     120 |      46 |            41 |         0
+---------------------------------------------------------
+[INFO RSZ-0034] Found 24 slew violations.
+[INFO RSZ-0035] Found 2 fanout violations.
+[INFO RSZ-0036] Found 15 capacitance violations.
+[INFO RSZ-0038] Inserted 46 buffers in 41 nets.
+[INFO RSZ-0039] Resized 120 instances.
+[INFO RSZ-0042] Inserted 2 tie sky130_fd_sc_hd__conb_1 instances.
+Placement Analysis
+---------------------------------
+total displacement       1963.0 u
+average displacement        0.7 u
+max displacement           75.6 u
+original HPWL           23360.0 u
+legalized HPWL          23202.0 u
+delta HPWL                   -1 %
+
+[INFO DPL-0020] Mirrored 84 instances
+[INFO DPL-0021] HPWL before           23202.0 u
+[INFO DPL-0022] HPWL after            23012.4 u
+[INFO DPL-0023] HPWL delta               -0.8 %
+[INFO] Setting RC values…
+Setting global connections for newly added cells…
+[INFO] Setting global connections...
+mem_i.* matched with mem_i1_115
+mem_i.* matched with mem_i0
+mem_i.* matched with mem_i1
+mem_i.* matched with mem_i0_114
+Updating metrics…
+Cell type report:                       Count       Area
+  Macro                                     2  247030.69
+  Fill cell                               962    3610.96
+  Tap cell                               1530    1914.34
+  Timing Repair Buffer                    113     534.26
+  Inverter                                 26      97.59
+  Sequential cell                          25     625.60
+  Multi-Input combinational cell           35     302.79
+  Total                                  2693  254116.23
+Writing OpenROAD database to '/home/lroot/NCO2ram/runs/RUN_2025-03-04_16-07-57/31-openroad-repairdesignpostgpl/counter.odb'…
+Writing netlist to '/home/lroot/NCO2ram/runs/RUN_2025-03-04_16-07-57/31-openroad-repairdesignpostgpl/counter.nl.v'…
+Writing powered netlist to '/home/lroot/NCO2ram/runs/RUN_2025-03-04_16-07-57/31-openroad-repairdesignpostgpl/counter.pnl.v'…
+Writing layout to '/home/lroot/NCO2ram/runs/RUN_2025-03-04_16-07-57/31-openroad-repairdesignpostgpl/counter.def'…
+Writing timing constraints to '/home/lroot/NCO2ram/runs/RUN_2025-03-04_16-07-57/31-openroad-repairdesignpostgpl/counter.sdc'…

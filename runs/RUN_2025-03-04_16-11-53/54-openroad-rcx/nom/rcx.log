@@ -1,0 +1,48 @@
+Reading technology LEF file at '/home/lroot/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__nom.tlef'…
+[INFO ODB-0227] LEF file: /home/lroot/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__nom.tlef, created 14 layers, 25 vias
+Reading cell LEF file at '/home/lroot/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_ef_sc_hd.lef'…
+[WARNING ODB-0220] WARNING (LEFPARS-2008): NOWIREEXTENSIONATPIN statement is obsolete in version 5.6 or later.
+The NOWIREEXTENSIONATPIN statement will be ignored. See file /home/lroot/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_ef_sc_hd.lef at line 2.
+
+[INFO ODB-0227] LEF file: /home/lroot/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_ef_sc_hd.lef, created 4 library cells
+Reading cell LEF file at '/home/lroot/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef'…
+[WARNING ODB-0220] WARNING (LEFPARS-2008): NOWIREEXTENSIONATPIN statement is obsolete in version 5.6 or later.
+The NOWIREEXTENSIONATPIN statement will be ignored. See file /home/lroot/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef at line 2.
+
+[INFO ODB-0227] LEF file: /home/lroot/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef, created 437 library cells
+Reading macro LEF file at '/home/lroot/NCO2ram/ram_256x16/ram_256x16.lef'…
+[INFO ODB-0227] LEF file: /home/lroot/NCO2ram/ram_256x16/ram_256x16.lef, created 1 library cells
+[INFO ODB-0127] Reading DEF file: /home/lroot/NCO2ram/runs/RUN_2025-03-04_16-11-53/53-odb-cellfrequencytables/counter.def
+[INFO ODB-0128] Design: counter
+[INFO ODB-0130]     Created 70 pins.
+[INFO ODB-0131]     Created 12248 components and 46876 component-terminals.
+[INFO ODB-0132]     Created 2 special nets and 45928 connections.
+[INFO ODB-0133]     Created 288 nets and 944 connections.
+[INFO ODB-0134] Finished DEF file: /home/lroot/NCO2ram/runs/RUN_2025-03-04_16-11-53/53-odb-cellfrequencytables/counter.def
+Using RCX ruleset '/home/lroot/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.tech/openlane/rules.openrcx.sky130A.nom.calibre'…
+[INFO RCX-0431] Defined process_corner CURRENT_CORNER with ext_model_index 0
+[INFO RCX-0029] Defined extraction corner CURRENT_CORNER
+[INFO RCX-0435] Reading extraction model file /home/lroot/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.tech/openlane/rules.openrcx.sky130A.nom.calibre ...
+[INFO RCX-0436] RC segment generation counter (max_merge_res 50.0) ...
+[INFO RCX-0040] Final 1461 rc segments
+[INFO RCX-0439] Coupling Cap extraction counter ...
+[INFO RCX-0440] Coupling threshhold is 0.1000 fF, coupling capacitance less than 0.1000 fF will be grounded.
+[INFO RCX-0442] 75% of 3799 wires extracted
+[INFO RCX-0442] 100% of 3799 wires extracted
+[INFO RCX-0045] Extract 288 nets, 1749 rsegs, 1749 caps, 1498 ccs
+Setting global connections for newly added cells…
+[INFO] Setting global connections...
+mem_i.* matched with mem_i0
+mem_i.* matched with mem_i0_114
+mem_i.* matched with mem_i1
+mem_i.* matched with mem_i1_115
+Updating metrics…
+Cell type report:                       Count       Area
+  Macro                                     2  247030.69
+  Fill cell                             10188  106968.84
+  Tap cell                               1530    1914.34
+  Antenna cell                            322     805.77
+  Standard cell                           206    1701.63
+  Total                                 12248  358421.27
+Writing extracted parasitics to '/home/lroot/NCO2ram/runs/RUN_2025-03-04_16-11-53/54-openroad-rcx/nom/counter.nom.spef'…
+[INFO RCX-0443] 288 nets finished

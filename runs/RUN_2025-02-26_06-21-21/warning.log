@@ -1,0 +1,234 @@
+11 Lint warnings found.
+'PNR_SDC_FILE' is not defined. Using generic fallback SDC for OpenROAD PnR steps.
+'SIGNOFF_SDC_FILE' is not defined. Using generic fallback SDC for OpenROAD PnR steps.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+Cell 'ram_256x16' has (36) input pin(s) without antenna gate information. They might not be connected to a gate.
+Cell 'ram_256x16' has (16) output pin(s) without antenna diffusion information. They might not be driven.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[GRT-0097] No global routing found for nets.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[GRT-0097] No global routing found for nets.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[GRT-0097] No global routing found for nets.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+'GPL_CELL_PADDING' is set to 0. This step may cause overlap failures.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer mcon
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer mcon
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via2
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via2
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via3
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via3
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via4
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via4
+[DRT-0418] Term mem_i/addr0[3] has no pins on routing grid
+[DRT-0418] Term mem_i/addr0[4] has no pins on routing grid
+[DRT-0418] Term mem_i/addr0[7] has no pins on routing grid
+[DRT-0418] Term mem_i/clk1 has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[0] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[1] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[3] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[5] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[7] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[8] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[10] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[12] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[14] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[15] has no pins on routing grid
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+Threshold for Threshold-surpassing long wires is not set. The checker will be skipped.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+'VSRC_LOC_FILES' was not given a value, which may make the results of IR drop analysis inaccurate. If you are not integrating a top-level chip for manufacture, you may ignore this warning, otherwise, see the documentation for 'VSRC_LOC_FILES'.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1648] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8297, instance ANTENNA_mem_i_addr1\[7\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8303, net ANTENNA_mem_i_addr1\[7\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8310, net ANTENNA_mem_i_addr1\[7\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8310, net ANTENNA_mem_i_addr1\[6\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8324, net ANTENNA_mem_i_addr1\[7\] not found.
+[STA-1648] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8331, instance ANTENNA_mem_i_addr1\[6\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8337, net ANTENNA_mem_i_addr1\[6\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8344, net ANTENNA_mem_i_addr1\[6\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8344, net ANTENNA_mem_i_addr1\[5\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8345, net ANTENNA_mem_i_addr1\[5\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8353, net ANTENNA_mem_i_addr1\[7\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8353, net ANTENNA_mem_i_addr1\[6\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8370, net ANTENNA_mem_i_addr1\[6\] not found.
+[STA-1648] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8377, instance ANTENNA_mem_i_addr1\[5\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8383, net ANTENNA_mem_i_addr1\[5\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8395, net ANTENNA_mem_i_addr1\[6\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8395, net ANTENNA_mem_i_addr1\[5\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8397, net ANTENNA_mem_i_addr1\[5\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8410, net ANTENNA_mem_i_addr1\[5\] not found.
+[STA-1648] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8575, instance ANTENNA_mem_i_addr1\[2\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8581, net ANTENNA_mem_i_addr1\[2\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8617, net ANTENNA_mem_i_addr1\[2\] not found.
+[STA-1648] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8623, instance ANTENNA_mem_i_addr1\[1\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8629, net ANTENNA_mem_i_addr1\[1\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8637, net ANTENNA_mem_i_addr1\[1\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8637, net ANTENNA_mem_i_addr1\[0\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8638, net ANTENNA_mem_i_addr1\[1\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8654, net ANTENNA_mem_i_addr1\[1\] not found.
+[STA-1648] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8660, instance ANTENNA_mem_i_addr1\[0\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8666, net ANTENNA_mem_i_addr1\[0\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8673, net ANTENNA_mem_i_addr1\[1\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8673, net ANTENNA_mem_i_addr1\[0\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8674, net ANTENNA_mem_i_addr1\[1\] not found.
+[STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8685, net ANTENNA_mem_i_addr1\[0\] not found.
+Max Slew violations found in the following corners:
+* max_ff_n40C_1v95
+* max_ss_100C_1v60
+* max_tt_025C_1v80
+* min_ff_n40C_1v95
+* min_ss_100C_1v60
+* min_tt_025C_1v80
+* nom_ff_n40C_1v95
+* nom_ss_100C_1v60
+* nom_tt_025C_1v80
+klayout__drc_error__count not reported. KLayout.DRC may have been skipped.
+magic__drc_error__count not reported. Magic.DRC may have been skipped.
+11 Lint warnings found.
+'PNR_SDC_FILE' is not defined. Using generic fallback SDC for OpenROAD PnR steps.
+'SIGNOFF_SDC_FILE' is not defined. Using generic fallback SDC for OpenROAD PnR steps.
+11 Lint warnings found.
+'PNR_SDC_FILE' is not defined. Using generic fallback SDC for OpenROAD PnR steps.
+'SIGNOFF_SDC_FILE' is not defined. Using generic fallback SDC for OpenROAD PnR steps.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+Cell 'ram_256x16' has (36) input pin(s) without antenna gate information. They might not be connected to a gate.
+Cell 'ram_256x16' has (16) output pin(s) without antenna diffusion information. They might not be driven.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[GRT-0097] No global routing found for nets.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[GRT-0097] No global routing found for nets.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[GRT-0097] No global routing found for nets.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+'GPL_CELL_PADDING' is set to 0. This step may cause overlap failures.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer mcon
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer mcon
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via2
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via2
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via3
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via3
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via4
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via4
+[DRT-0418] Term mem_i/addr0[3] has no pins on routing grid
+[DRT-0418] Term mem_i/addr0[4] has no pins on routing grid
+[DRT-0418] Term mem_i/addr0[7] has no pins on routing grid
+[DRT-0418] Term mem_i/clk1 has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[0] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[1] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[3] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[5] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[7] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[8] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[10] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[12] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[14] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[15] has no pins on routing grid
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+Threshold for Threshold-surpassing long wires is not set. The checker will be skipped.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+11 Lint warnings found.
+'PNR_SDC_FILE' is not defined. Using generic fallback SDC for OpenROAD PnR steps.
+'SIGNOFF_SDC_FILE' is not defined. Using generic fallback SDC for OpenROAD PnR steps.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+Cell 'ram_256x16' has (36) input pin(s) without antenna gate information. They might not be connected to a gate.
+Cell 'ram_256x16' has (16) output pin(s) without antenna diffusion information. They might not be driven.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[GRT-0097] No global routing found for nets.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[GRT-0097] No global routing found for nets.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[GRT-0097] No global routing found for nets.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+'GPL_CELL_PADDING' is set to 0. This step may cause overlap failures.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer mcon
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer mcon
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via2
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via2
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via3
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via3
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via4
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via4
+[DRT-0418] Term mem_i/addr0[3] has no pins on routing grid
+[DRT-0418] Term mem_i/addr0[4] has no pins on routing grid
+[DRT-0418] Term mem_i/addr0[7] has no pins on routing grid
+[DRT-0418] Term mem_i/clk1 has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[0] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[1] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[3] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[5] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[7] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[8] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[10] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[12] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[14] has no pins on routing grid
+[DRT-0418] Term mem_i/dout1[15] has no pins on routing grid
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+Threshold for Threshold-surpassing long wires is not set. The checker will be skipped.
+[STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.

@@ -1,0 +1,38 @@
+digraph "counter" {
+label="counter";
+rankdir="LR";
+remincross=true;
+n4 [ shape=diamond, label="sine_out_temp", color="black", fontcolor="black"];
+n5 [ shape=diamond, label="tcout", color="black", fontcolor="black"];
+n6 [ shape=octagon, label="sine_out", color="black", fontcolor="black"];
+n7 [ shape=octagon, label="din0", color="black", fontcolor="black"];
+n8 [ shape=octagon, label="addr0", color="black", fontcolor="black"];
+n9 [ shape=octagon, label="csb0", color="black", fontcolor="black"];
+n10 [ shape=octagon, label="rst", color="black", fontcolor="black"];
+n11 [ shape=octagon, label="clk", color="black", fontcolor="black"];
+v0 [ label="1" ];
+c15 [ shape=record, label="{{<p12> A|<p13> B}|$2\n$add|{<p14> Y}}",  ];
+v1 [ label="1'0" ];
+c21 [ shape=record, label="{{<p8> addr0|<p16> addr1|<p17> clk0|<p18> clk1|<p9> csb0|<p19> csb1|<p7> din0}|mem_i\nram_256x16|{<p20> dout1}}",  ];
+x3 [ shape=record, style=rounded, label="<s0> 7:0 - 7:0 ", color="black", fontcolor="black" ];
+p2 [shape=box, style=rounded, label="PROC $1\n/home/lroot/NCOver2/counter.v:23.2-33.6", ];
+c15:p14:e -> x3:s0:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+n10:e -> p2:w [color="black", fontcolor="black", label=""];
+n11:e -> c21:p17:w [color="black", fontcolor="black", label=""];
+n11:e -> c21:p18:w [color="black", fontcolor="black", label=""];
+n11:e -> p2:w [color="black", fontcolor="black", label=""];
+c21:p20:e -> n4:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+n4:e -> p2:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+p2:e -> n5:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+n5:e -> c15:p12:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+n5:e -> c21:p16:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+n5:e -> p2:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+p2:e -> n6:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+n6:e -> p2:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+n7:e -> c21:p7:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+n8:e -> c21:p8:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+n9:e -> c21:p9:w [color="black", fontcolor="black", label=""];
+v0:e -> c15:p13:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+v1:e -> c21:p19:w [color="black", fontcolor="black", label=""];
+x3:e -> p2:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+}

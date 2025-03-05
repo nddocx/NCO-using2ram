@@ -1,0 +1,73 @@
+Reading OpenROAD database at '/home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/53-odb-cellfrequencytables/counter.odb'…
+Reading library file at '/home/lroot/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+Reading library file at '/home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib'…
+Reading macro library file at '/home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib'…
+[WARNING STA-1140] /home/lroot/NCOver2/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+Reading design constraints file at '/nix/store/1713bzlk8w8z17prigcs0xh0ha523ii5-python3-3.11.9-env/lib/python3.11/site-packages/openlane/scripts/base.sdc'…
+[INFO] Using clock clk…
+[INFO] Setting output delay to: 2
+[INFO] Setting input delay to: 2
+[INFO] Setting load to: 0.033442
+[INFO] Setting clock uncertainty to: 0.25
+[INFO] Setting clock transition to: 0.1499999999999999944488848768742172978818416595458984375
+[INFO] Setting timing derate to: 5%
+[INFO] Setting RC values…
+[WARNING STA-1648] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8297, instance ANTENNA_mem_i_addr1\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8303, net ANTENNA_mem_i_addr1\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8310, net ANTENNA_mem_i_addr1\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8310, net ANTENNA_mem_i_addr1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8324, net ANTENNA_mem_i_addr1\[7\] not found.
+[WARNING STA-1648] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8331, instance ANTENNA_mem_i_addr1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8337, net ANTENNA_mem_i_addr1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8344, net ANTENNA_mem_i_addr1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8344, net ANTENNA_mem_i_addr1\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8345, net ANTENNA_mem_i_addr1\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8353, net ANTENNA_mem_i_addr1\[7\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8353, net ANTENNA_mem_i_addr1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8370, net ANTENNA_mem_i_addr1\[6\] not found.
+[WARNING STA-1648] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8377, instance ANTENNA_mem_i_addr1\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8383, net ANTENNA_mem_i_addr1\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8395, net ANTENNA_mem_i_addr1\[6\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8395, net ANTENNA_mem_i_addr1\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8397, net ANTENNA_mem_i_addr1\[5\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8410, net ANTENNA_mem_i_addr1\[5\] not found.
+[WARNING STA-1648] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8575, instance ANTENNA_mem_i_addr1\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8581, net ANTENNA_mem_i_addr1\[2\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8617, net ANTENNA_mem_i_addr1\[2\] not found.
+[WARNING STA-1648] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8623, instance ANTENNA_mem_i_addr1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8629, net ANTENNA_mem_i_addr1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8637, net ANTENNA_mem_i_addr1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8637, net ANTENNA_mem_i_addr1\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8638, net ANTENNA_mem_i_addr1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8654, net ANTENNA_mem_i_addr1\[1\] not found.
+[WARNING STA-1648] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8660, instance ANTENNA_mem_i_addr1\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8666, net ANTENNA_mem_i_addr1\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8673, net ANTENNA_mem_i_addr1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8673, net ANTENNA_mem_i_addr1\[0\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8674, net ANTENNA_mem_i_addr1\[1\] not found.
+[WARNING STA-1650] /home/lroot/NCOver2/runs/RUN_2025-02-26_06-21-21/54-openroad-rcx/nom/counter.nom.spef line 8685, net ANTENNA_mem_i_addr1\[0\] not found.
+[INFO] Using voltage extracted from lib (1.8000000000V) for power nets and 0V for ground nets…
+%OL_CREATE_REPORT irdrop.rpt
+[INFO PSM-0040] All shapes on net vccd1 are connected.
+########## IR report #################
+Net              : vccd1
+Corner           : nom_tt_025C_1v80
+Supply voltage   : 1.80e+00 V
+Worstcase voltage: -1.11e+06 V
+Average voltage  : -1.07e+03 V
+Average IR drop  : 1.07e+03 V
+Worstcase IR drop: 1.11e+06 V
+Percentage drop  : 61549068.00 %
+######################################
+[INFO PSM-0040] All shapes on net vssd1 are connected.
+########## IR report #################
+Net              : vssd1
+Corner           : nom_tt_025C_1v80
+Supply voltage   : 0.00e+00 V
+Worstcase voltage: 1.11e+06 V
+Average voltage  : 1.02e+03 V
+Average IR drop  : 1.02e+03 V
+Worstcase IR drop: 1.11e+06 V
+Percentage drop  : 61549068.00 %
+######################################
+%OL_END_REPORT

@@ -1,0 +1,26 @@
+
+===========================================================================
+Violator List
+============================================================================
+[setup reg-out] _142_/Q -> sine_out[5] : -0.636211
+[setup reg-out] _122_/Q -> sine_out[10] : -0.589174
+[setup reg-out] _141_/Q -> sine_out[4] : -0.577920
+[setup reg-out] _124_/Q -> sine_out[12] : -0.577731
+[setup reg-out] _140_/Q -> sine_out[3] : -0.576756
+[setup reg-out] _144_/Q -> sine_out[7] : -0.566222
+[setup reg-out] _138_/Q -> sine_out[1] : -0.558114
+[setup reg-out] _137_/Q -> sine_out[0] : -0.555987
+[setup reg-out] _123_/Q -> sine_out[11] : -0.554256
+[setup reg-out] _139_/Q -> sine_out[2] : -0.551809
+[setup reg-out] _143_/Q -> sine_out[6] : -0.543575
+[setup reg-out] _120_/Q -> sine_out[8] : -0.539181
+[setup reg-out] _121_/Q -> sine_out[9] : -0.527302
+[setup reg-out] _126_/Q -> sine_out[14] : -0.509537
+[setup reg-out] _125_/Q -> sine_out[13] : -0.485382
+[setup reg-out] _127_/Q -> sine_out[15] : -0.464071
+[setup reg-reg] mem_i1/dout1[5] -> _142_/D : -0.094537
+[setup reg-reg] mem_i1/dout1[11] -> _123_/D : -0.092240
+[setup reg-reg] mem_i1/dout1[10] -> _122_/D : -0.088818
+[setup reg-reg] mem_i1/dout1[9] -> _121_/D : -0.060562
+[setup reg-reg] mem_i1/dout1[3] -> _140_/D : -0.025848
+[setup reg-reg] mem_i1/dout1[8] -> _120_/D : -0.005870

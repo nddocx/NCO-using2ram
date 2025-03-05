@@ -1,0 +1,56 @@
+Reading timing models for corner nom_tt_025C_1v80…
+Reading cell library for the 'nom_tt_025C_1v80' corner at '/home/lroot/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+Reading cell library for the 'nom_tt_025C_1v80' corner at '/home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib'…
+Reading top-level netlist at '/home/lroot/NCO2ram/runs/RUN_2025-03-04_16-20-01/06-yosys-synthesis/counter.nl.v'…
+Linking design 'counter' from netlist…
+Reading design constraints file at '/home/lroot/NCO2ram/counter.sdc'…
+Warning: counter.sdc line 13, port 'addr0[0]' not found.
+Warning: counter.sdc line 14, port 'addr0[1]' not found.
+Warning: counter.sdc line 15, port 'addr0[2]' not found.
+Warning: counter.sdc line 16, port 'addr0[3]' not found.
+Warning: counter.sdc line 17, port 'addr0[4]' not found.
+Warning: counter.sdc line 18, port 'addr0[5]' not found.
+Warning: counter.sdc line 19, port 'addr0[6]' not found.
+Warning: counter.sdc line 20, port 'addr0[7]' not found.
+Warning: counter.sdc line 21, port 'csb0' not found.
+Warning: counter.sdc line 22, port 'din0[0]' not found.
+Warning: counter.sdc line 23, port 'din0[10]' not found.
+Warning: counter.sdc line 24, port 'din0[11]' not found.
+Warning: counter.sdc line 25, port 'din0[12]' not found.
+Warning: counter.sdc line 26, port 'din0[13]' not found.
+Warning: counter.sdc line 27, port 'din0[14]' not found.
+Warning: counter.sdc line 28, port 'din0[15]' not found.
+Warning: counter.sdc line 29, port 'din0[1]' not found.
+Warning: counter.sdc line 30, port 'din0[2]' not found.
+Warning: counter.sdc line 31, port 'din0[3]' not found.
+Warning: counter.sdc line 32, port 'din0[4]' not found.
+Warning: counter.sdc line 33, port 'din0[5]' not found.
+Warning: counter.sdc line 34, port 'din0[6]' not found.
+Warning: counter.sdc line 35, port 'din0[7]' not found.
+Warning: counter.sdc line 36, port 'din0[8]' not found.
+Warning: counter.sdc line 37, port 'din0[9]' not found.
+Warning: counter.sdc line 75, port 'csb0' not found.
+Warning: counter.sdc line 77, port 'addr0[7]' not found.
+Warning: counter.sdc line 78, port 'addr0[6]' not found.
+Warning: counter.sdc line 79, port 'addr0[5]' not found.
+Warning: counter.sdc line 80, port 'addr0[4]' not found.
+Warning: counter.sdc line 81, port 'addr0[3]' not found.
+Warning: counter.sdc line 82, port 'addr0[2]' not found.
+Warning: counter.sdc line 83, port 'addr0[1]' not found.
+Warning: counter.sdc line 84, port 'addr0[0]' not found.
+Warning: counter.sdc line 85, port 'din0[15]' not found.
+Warning: counter.sdc line 86, port 'din0[14]' not found.
+Warning: counter.sdc line 87, port 'din0[13]' not found.
+Warning: counter.sdc line 88, port 'din0[12]' not found.
+Warning: counter.sdc line 89, port 'din0[11]' not found.
+Warning: counter.sdc line 90, port 'din0[10]' not found.
+Warning: counter.sdc line 91, port 'din0[9]' not found.
+Warning: counter.sdc line 92, port 'din0[8]' not found.
+Warning: counter.sdc line 93, port 'din0[7]' not found.
+Warning: counter.sdc line 94, port 'din0[6]' not found.
+Warning: counter.sdc line 95, port 'din0[5]' not found.
+Warning: counter.sdc line 96, port 'din0[4]' not found.
+Warning: counter.sdc line 97, port 'din0[3]' not found.
+Warning: counter.sdc line 98, port 'din0[2]' not found.
+Warning: counter.sdc line 99, port 'din0[1]' not found.
+Warning: counter.sdc line 100, port 'din0[0]' not found.

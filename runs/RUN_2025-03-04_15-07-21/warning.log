@@ -1,0 +1,54 @@
+13 Lint warnings found.
+'PNR_SDC_FILE' is not defined. Using generic fallback SDC for OpenROAD PnR steps.
+'SIGNOFF_SDC_FILE' is not defined. Using generic fallback SDC for OpenROAD PnR steps.
+[STA-1140] /home/lroot/NCO2ram/ram_256x16/ram_256x16_TT_1p8V_25C.lib line 1, library ram_256x16_TT_1p8V_25C_lib already exists.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'din0[0]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'csb0' not found.
+[STA-0366] port 'addr0[7]' not found.
+[STA-0366] port 'addr0[6]' not found.
+[STA-0366] port 'addr0[5]' not found.
+[STA-0366] port 'addr0[4]' not found.
+[STA-0366] port 'addr0[3]' not found.
+[STA-0366] port 'addr0[2]' not found.
+[STA-0366] port 'addr0[1]' not found.
+[STA-0366] port 'addr0[0]' not found.
+[STA-0366] port 'din0[15]' not found.
+[STA-0366] port 'din0[14]' not found.
+[STA-0366] port 'din0[13]' not found.
+[STA-0366] port 'din0[12]' not found.
+[STA-0366] port 'din0[11]' not found.
+[STA-0366] port 'din0[10]' not found.
+[STA-0366] port 'din0[9]' not found.
+[STA-0366] port 'din0[8]' not found.
+[STA-0366] port 'din0[7]' not found.
+[STA-0366] port 'din0[6]' not found.
+[STA-0366] port 'din0[5]' not found.
+[STA-0366] port 'din0[4]' not found.
+[STA-0366] port 'din0[3]' not found.
+[STA-0366] port 'din0[2]' not found.
+[STA-0366] port 'din0[1]' not found.
+[STA-0366] port 'din0[0]' not found.
